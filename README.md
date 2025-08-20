@@ -1,5 +1,6 @@
 <h1> Hi 👋, I'm  a Security Engineer & Backend Developer</h1>
-<p>Cyber Security-driven Software Development Engineer with 1 year and 1 month of internship experience focused on building security-focused tools and automating processes. Collaborated closely with security engineers and penetration testers to bridge the gap between software development and offensive security practices.</p>
+<p>Cybersecurity-driven Software Development Engineer with a passion for building secure tools and automating processes.  
+Focused on bridging the gap between software engineering and offensive security through collaborative and security-conscious development practices.</p>
 <p>Fun Fact : Once I Left my In Hand SDE job just to set firewalls legally🔥   </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
