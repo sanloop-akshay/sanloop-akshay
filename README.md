@@ -1,6 +1,5 @@
 <h1> Hi 👋, I'm  a Security Engineer & Backend Developer</h1>
-<p>Cybersecurity-driven Software Development Engineer with a passion for building secure tools and automating processes.  
-Focused on bridging the gap between software engineering and offensive security through collaborative and security-conscious development practices.</p>
+<p>Dev with a strong focus on Sec. I build Sec Tools, Automate Tasks, and Team up with Sec pros. Open to collab on any Sec-Focused Projects.</p>
 <p>Fun Fact : Once I Left my In Hand SDE job just to set firewalls legally🔥   </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
