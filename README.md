@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm  a Security Engineer & Backend Developer</h1>
+<h1> Hi 👋, I'm  a DevSecOps Engineer & Backend Developer at IO</h1>
 <p>Dev with a strong focus on Sec. I build Sec Tools, Automate Tasks, and Team up with Sec pros. Open to collab on any Sec-Focused and Freelancing Projects.</p>
 <p>Fun Fact : Once I Left my In Hand SDE job just to set firewalls legally🔥   </p>
 <h2>🚀 Languages and Tools I Use</h2>
