@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm  a DevSecOps Engineer & Backend Developer at Positka</h1>
+<h1> Hi 👋, I'm  a DevSecOps Engineer & VAPT at Positka</h1>
 <p>Dev with a strong focus on Sec. I build Sec Tools, Automate Tasks, and Team up with Sec pros. Open to collab on any Sec-Focused and Freelancing Projects.</p>
 <p>Fun Fact : Once I Left my Two In Hand SDE job just to set firewalls legally🔥   </p>
 <p>For Project Collobration : <a target="_blank" href="https://sanloop-akshay.vercel.app" style="display: inline-block;">Portfolio</a>
