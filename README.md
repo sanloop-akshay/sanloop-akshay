@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm  a DevSecOps Engineer & VAPT at Positka</h1>
-<p>Dev with a strong focus on Sec. I build Sec Tools, Automate Tasks, and Team up with Sec pros. Open to collab on any Sec-Focused and Freelancing Projects.</p>
+<p>Sec Engineer specializing in DevSecOps, automation, VAPT, and secure systems development, with hands-on experience building security tools and platforms in collaboration with SOC, CrowdStrike, Splunk, Audit and VAPT teams. Highly focused on offensive security and open to collabs.</p>
 <p>Fun Fact : Once I Left my Two In Hand SDE job just to set firewalls legally🔥   </p>
 <p>For Project Collobration : <a target="_blank" href="https://sanloop-akshay.vercel.app" style="display: inline-block;">Portfolio</a>
 
